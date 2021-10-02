@@ -1,0 +1,68 @@
+E:\Visual studio 2019\CDIO 4\QLTHUVIEN\QLTHUVIEN\bin\Debug\netcoreapp3.1\QLTHUVIEN.exe
+E:\Visual studio 2019\CDIO 4\QLTHUVIEN\QLTHUVIEN\bin\Debug\netcoreapp3.1\QLTHUVIEN.deps.json
+E:\Visual studio 2019\CDIO 4\QLTHUVIEN\QLTHUVIEN\bin\Debug\netcoreapp3.1\QLTHUVIEN.runtimeconfig.json
+E:\Visual studio 2019\CDIO 4\QLTHUVIEN\QLTHUVIEN\bin\Debug\netcoreapp3.1\QLTHUVIEN.runtimeconfig.dev.json
+E:\Visual studio 2019\CDIO 4\QLTHUVIEN\QLTHUVIEN\bin\Debug\netcoreapp3.1\QLTHUVIEN.dll
+E:\Visual studio 2019\CDIO 4\QLTHUVIEN\QLTHUVIEN\bin\Debug\netcoreapp3.1\QLTHUVIEN.pdb
+E:\Visual studio 2019\CDIO 4\QLTHUVIEN\QLTHUVIEN\obj\Debug\netcoreapp3.1\QLTHUVIEN.csprojAssemblyReference.cache
+E:\Visual studio 2019\CDIO 4\QLTHUVIEN\QLTHUVIEN\obj\Debug\netcoreapp3.1\QLTHUVIEN.csproj.GenerateResource.cache
+E:\Visual studio 2019\CDIO 4\QLTHUVIEN\QLTHUVIEN\obj\Debug\netcoreapp3.1\QLTHUVIEN.AssemblyInfoInputs.cache
+E:\Visual studio 2019\CDIO 4\QLTHUVIEN\QLTHUVIEN\obj\Debug\netcoreapp3.1\QLTHUVIEN.AssemblyInfo.cs
+E:\Visual studio 2019\CDIO 4\QLTHUVIEN\QLTHUVIEN\obj\Debug\netcoreapp3.1\QLTHUVIEN.csproj.CoreCompileInputs.cache
+E:\Visual studio 2019\CDIO 4\QLTHUVIEN\QLTHUVIEN\obj\Debug\netcoreapp3.1\QLTHUVIEN.dll
+E:\Visual studio 2019\CDIO 4\QLTHUVIEN\QLTHUVIEN\obj\Debug\netcoreapp3.1\QLTHUVIEN.pdb
+E:\Visual studio 2019\CDIO 4\QLTHUVIEN\QLTHUVIEN\obj\Debug\netcoreapp3.1\QLTHUVIEN.genruntimeconfig.cache
+E:\Visual studio 2019\CDIO 4\QLTHUVIEN\QLTHUVIEN\obj\Debug\netcoreapp3.1\QLTHUVIEN.Properties.Resources.resources
+E:\Visual studio 2019\CDIO 4\QLTHUVIEN\QLTHUVIEN\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+E:\Visual studio 2019\CDIO 4\QLTHUVIEN\QLTHUVIEN\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\Visual studio 2019\CDIO 4\QLTHUVIEN\QLTHUVIEN\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\Visual studio 2019\CDIO 4\QLTHUVIEN\QLTHUVIEN\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\Visual studio 2019\CDIO 4\QLTHUVIEN\QLTHUVIEN\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Visual studio 2019\CDIO 4\QLTHUVIEN\QLTHUVIEN\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Visual studio 2019\CDIO 4\QLTHUVIEN\QLTHUVIEN\obj\Debug\netcoreapp3.1\QLTHUVIEN.frmQLDanhMuc.resources
+E:\Visual studio 2019\CDIO 4\QLTHUVIEN\QLTHUVIEN\obj\Debug\netcoreapp3.1\QLTHUVIEN.csproj.CopyComplete
+E:\Visual studio 2019\CDIO 4\QLTHUVIEN\QLTHUVIEN\obj\Debug\netcoreapp3.1\QLTHUVIEN.frmQLNXB.resources
+E:\Visual studio 2019\CDIO 4\QLTHUVIEN\QLTHUVIEN\obj\Debug\netcoreapp3.1\QLTHUVIEN.frmQLTacGia.resources
+E:\Visual studio 2019\CDIO 4\QLTHUVIEN\QLTHUVIEN\obj\Debug\netcoreapp3.1\QLTHUVIEN.frmQLViTri.resources
+E:\Visual studio 2019\CDIO 4\QLTHUVIEN\QLTHUVIEN\obj\Debug\netcoreapp3.1\QLTHUVIEN.frmQLSach.resources
+E:\Visual studio 2019\CDIO 4\QLTHUVIEN\QLTHUVIEN\obj\Debug\netcoreapp3.1\QLTHUVIEN.frmQLDocGia.resources
+E:\Visual studio 2019\CDIO 4\QLTHUVIEN\QLTHUVIEN\obj\Debug\netcoreapp3.1\QLTHUVIEN.frmQLMuon.resources
+E:\Visual studio 2019\CDIO 4\QLTHUVIEN\QLTHUVIEN\obj\Debug\netcoreapp3.1\QLTHUVIEN.frmQLNhanVien.resources
+E:\Visual studio 2019\CDIO 4\QLTHUVIEN\QLTHUVIEN\obj\Debug\netcoreapp3.1\QLTHUVIEN.frmDangNhap.resources
+E:\Visual studio 2019\CDIO 4\QLTHUVIEN\QLTHUVIEN\obj\Debug\netcoreapp3.1\QLTHUVIEN.frmTimKiem.resources
+E:\Visual studio 2019\CDIO 4\QLTHUVIEN\QLTHUVIEN\obj\Debug\netcoreapp3.1\QLTHUVIEN.frmQlthuvien.resources
+E:\Visual studio 2019\QLTHUVIEN\QLTHUVIEN\QLTHUVIEN\bin\Debug\netcoreapp3.1\QLTHUVIEN.exe
+E:\Visual studio 2019\QLTHUVIEN\QLTHUVIEN\QLTHUVIEN\bin\Debug\netcoreapp3.1\QLTHUVIEN.deps.json
+E:\Visual studio 2019\QLTHUVIEN\QLTHUVIEN\QLTHUVIEN\bin\Debug\netcoreapp3.1\QLTHUVIEN.runtimeconfig.json
+E:\Visual studio 2019\QLTHUVIEN\QLTHUVIEN\QLTHUVIEN\bin\Debug\netcoreapp3.1\QLTHUVIEN.runtimeconfig.dev.json
+E:\Visual studio 2019\QLTHUVIEN\QLTHUVIEN\QLTHUVIEN\bin\Debug\netcoreapp3.1\QLTHUVIEN.dll
+E:\Visual studio 2019\QLTHUVIEN\QLTHUVIEN\QLTHUVIEN\bin\Debug\netcoreapp3.1\QLTHUVIEN.pdb
+E:\Visual studio 2019\QLTHUVIEN\QLTHUVIEN\QLTHUVIEN\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+E:\Visual studio 2019\QLTHUVIEN\QLTHUVIEN\QLTHUVIEN\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\Visual studio 2019\QLTHUVIEN\QLTHUVIEN\QLTHUVIEN\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\Visual studio 2019\QLTHUVIEN\QLTHUVIEN\QLTHUVIEN\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\Visual studio 2019\QLTHUVIEN\QLTHUVIEN\QLTHUVIEN\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Visual studio 2019\QLTHUVIEN\QLTHUVIEN\QLTHUVIEN\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Visual studio 2019\QLTHUVIEN\QLTHUVIEN\QLTHUVIEN\obj\Debug\netcoreapp3.1\QLTHUVIEN.csprojAssemblyReference.cache
+E:\Visual studio 2019\QLTHUVIEN\QLTHUVIEN\QLTHUVIEN\obj\Debug\netcoreapp3.1\QLTHUVIEN.frmDangNhap.resources
+E:\Visual studio 2019\QLTHUVIEN\QLTHUVIEN\QLTHUVIEN\obj\Debug\netcoreapp3.1\QLTHUVIEN.frmQLDanhMuc.resources
+E:\Visual studio 2019\QLTHUVIEN\QLTHUVIEN\QLTHUVIEN\obj\Debug\netcoreapp3.1\QLTHUVIEN.frmQLDocGia.resources
+E:\Visual studio 2019\QLTHUVIEN\QLTHUVIEN\QLTHUVIEN\obj\Debug\netcoreapp3.1\QLTHUVIEN.frmQLMuon.resources
+E:\Visual studio 2019\QLTHUVIEN\QLTHUVIEN\QLTHUVIEN\obj\Debug\netcoreapp3.1\QLTHUVIEN.frmQLNhanVien.resources
+E:\Visual studio 2019\QLTHUVIEN\QLTHUVIEN\QLTHUVIEN\obj\Debug\netcoreapp3.1\QLTHUVIEN.frmQLNXB.resources
+E:\Visual studio 2019\QLTHUVIEN\QLTHUVIEN\QLTHUVIEN\obj\Debug\netcoreapp3.1\QLTHUVIEN.frmQLSach.resources
+E:\Visual studio 2019\QLTHUVIEN\QLTHUVIEN\QLTHUVIEN\obj\Debug\netcoreapp3.1\QLTHUVIEN.frmQLTacGia.resources
+E:\Visual studio 2019\QLTHUVIEN\QLTHUVIEN\QLTHUVIEN\obj\Debug\netcoreapp3.1\QLTHUVIEN.frmQlthuvien.resources
+E:\Visual studio 2019\QLTHUVIEN\QLTHUVIEN\QLTHUVIEN\obj\Debug\netcoreapp3.1\QLTHUVIEN.frmQLViTri.resources
+E:\Visual studio 2019\QLTHUVIEN\QLTHUVIEN\QLTHUVIEN\obj\Debug\netcoreapp3.1\QLTHUVIEN.frmTimKiem.resources
+E:\Visual studio 2019\QLTHUVIEN\QLTHUVIEN\QLTHUVIEN\obj\Debug\netcoreapp3.1\QLTHUVIEN.Properties.Resources.resources
+E:\Visual studio 2019\QLTHUVIEN\QLTHUVIEN\QLTHUVIEN\obj\Debug\netcoreapp3.1\QLTHUVIEN.csproj.GenerateResource.cache
+E:\Visual studio 2019\QLTHUVIEN\QLTHUVIEN\QLTHUVIEN\obj\Debug\netcoreapp3.1\QLTHUVIEN.AssemblyInfoInputs.cache
+E:\Visual studio 2019\QLTHUVIEN\QLTHUVIEN\QLTHUVIEN\obj\Debug\netcoreapp3.1\QLTHUVIEN.AssemblyInfo.cs
+E:\Visual studio 2019\QLTHUVIEN\QLTHUVIEN\QLTHUVIEN\obj\Debug\netcoreapp3.1\QLTHUVIEN.csproj.CoreCompileInputs.cache
+E:\Visual studio 2019\QLTHUVIEN\QLTHUVIEN\QLTHUVIEN\obj\Debug\netcoreapp3.1\QLTHUVIEN.csproj.CopyComplete
+E:\Visual studio 2019\QLTHUVIEN\QLTHUVIEN\QLTHUVIEN\obj\Debug\netcoreapp3.1\QLTHUVIEN.dll
+E:\Visual studio 2019\QLTHUVIEN\QLTHUVIEN\QLTHUVIEN\obj\Debug\netcoreapp3.1\QLTHUVIEN.pdb
+E:\Visual studio 2019\QLTHUVIEN\QLTHUVIEN\QLTHUVIEN\obj\Debug\netcoreapp3.1\QLTHUVIEN.genruntimeconfig.cache
+E:\Visual studio 2019\QLTHUVIEN\QLTHUVIEN\QLTHUVIEN\obj\Debug\netcoreapp3.1\QLTHUVIEN.frmThongKe.resources
+E:\Visual studio 2019\QLTHUVIEN\QLTHUVIEN\QLTHUVIEN\obj\Debug\netcoreapp3.1\QLTHUVIEN.frmThongTinCaNhan.resources
